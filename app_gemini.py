@@ -5,7 +5,7 @@ import subprocess
 import shutil
 import cv2
 
-GOOGLE_API_KEY = "AIzaSyDcIkhhBY7Y1gc4Z8nD7ymsfCETXm1uPek"
+GOOGLE_API_KEY = "AIzaSyDWd4EHRMsEBWpf-K46GxNPpPdl_6nEIE0"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 
